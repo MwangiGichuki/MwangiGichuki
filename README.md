@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert Mwangi.
-- 👀 I’m interested in learnign front end web development.
+- 👀 I’m interested in learning front end web development.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on projects to enhance my learning. 
 - 📫 You can reach me at this email address, robertmwangi732@gmail.com
